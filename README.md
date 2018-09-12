@@ -2,7 +2,7 @@
 Webcam-Face-Detect
 ==================
 
-Run the program like this:
+Run the program Using:
 
 *python webcam.py*
 
